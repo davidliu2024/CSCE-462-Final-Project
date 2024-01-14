@@ -20,3 +20,7 @@ The project is built using the following technologies:
 
 Video Demo Link:
 - https://youtu.be/OeZxZKIOn8Y
+
+Contributors:
+- David Liu
+- Lucas Ho
