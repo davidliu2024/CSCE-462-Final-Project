@@ -8,9 +8,7 @@ VolleyBall Buddy is a computer vision project designed to enhance the game of vo
 
 1. **Real-time Tracking:** VolleyBall Buddy employs computer vision techniques to track the movement of the volleyball in real-time. This allows for precise monitoring of sets during the game.
 
-2. **Set Analysis:** The system analyzes the trajectory and positioning of the volleyball to determine whether a set is within the defined parameters of a proper set in volleyball. It provides instant feedback on the quality of each set.
-
-3. **User-Friendly Interface:** The project includes a user-friendly interface that displays the live tracking results and analysis. This makes it easy for players, coaches, and spectators to understand and interpret the data.
+2. **Set Analysis:** The system analyzes the trajectory and positioning of the volleyball to determine whether a set is within the defined parameters of a proper set in volleyball. It provides instant feedback on the quality of each set via a beeping noise
 
 ## Tech Stack
 
